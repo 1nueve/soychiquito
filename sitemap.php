@@ -88,16 +88,13 @@
         <div id="menu_wrapper">
           <div id="menu_header">
             <div id="menu_footer">
-              <h3>shop</h3>
+              <h3>Productos</h3>
               <ul>
-                <li><a href="">New Arrivals</a></li>
-                <li><a href="">On Sale</a></li>
-                <li><a href="#">Baby Shower Gifts</a></li>
-                <li><a href="#">Maternity</a></li>
-                <li><a href="#">For the Boys</a></li>
-                <li><a href="#">For the Girls</a></li>
-                <li><a href="#">Unisex Clothing</a></li>
-                <li><a href="#">Newborn</a></li>
+                <li><h2><a href="bebes.html">Bebés</a></h2></li>
+                <li><h2><a href="ninas.html">Niñas</a></h2></li>
+                <li><h2><a href="ninos.html">Niños</a></h2></li>
+                <li><h2><a href="accesorios.html">Accesorios</a></h2></li>
+                <li><h2><a href="marcas.html">Marcas</a></h2></li>                
               </ul>
               <br class="clear" />
             </div>
